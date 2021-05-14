@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'AlexBrush-Regular';
+    src: url('AlexBrush-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  .navbar-nav  li a:hover {
+    color: #E8FFB7;
+  }
+
+.bg-1 {
+    background-color: #FFC1CF; 
+    background-image: url(img/fundo.png);
+    color: #555555;
+  }
+
+.bg-2 {
+    background-color: #ffffff; 
+    color: #555555;
+}
+.bg-3 {
+    background-color: #FFC1CF; 
+    color: #555555;
+}
+.bg-4 {
+  background-color: #c4f5fc; 
+  color: #555555;
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+.img-1{
+  height: 30%;
+  width: 30%;
+}
+
+.img-2{
+  height: 53.5%;
+  width: 53.5%;
+}
+
+.img-3{
+  height: 300px;
+  width: 420px;
+}
+
+
+.navbar {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: larger;
+  font-family:'Times New Roman', Times, serif;
+}
+
+p{
+  font-family:'Times New Roman', Times, serif;
+  font-size: larger;
+}
